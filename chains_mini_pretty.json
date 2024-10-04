@@ -3613,7 +3613,7 @@
   "faucets": ["https://faucet.testnet.camdl.gov.kh/"],
   "infoURL": "https://camdl.gov.kh/"
 }, {
-  "name": "Near Mainnet",
+  "name": "NEAR Protocol",
   "chainId": 397,
   "shortName": "near",
   "networkId": 397,
@@ -3622,22 +3622,22 @@
     "symbol": "NEAR",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://eth-rpc.mainnet.near.org"],
   "faucets": [],
-  "infoURL": "https://near.org/"
+  "infoURL": "https://near.org"
 }, {
-  "name": "Near Testnet",
+  "name": "NEAR Protocol Testnet",
   "chainId": 398,
   "shortName": "near-testnet",
   "networkId": 398,
   "nativeCurrency": {
-    "name": "Testnet NEAR",
+    "name": "NEAR",
     "symbol": "NEAR",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://eth-rpc.testnet.near.org"],
   "faucets": [],
-  "infoURL": "https://aurora.dev"
+  "infoURL": "https://near.org"
 }, {
   "name": "Nativ3 Mainnet",
   "chainId": 399,
@@ -6291,6 +6291,19 @@
   "faucets": ["https://cuckoo.network/portal/faucet/"],
   "infoURL": "https://cuckoo.network"
 }, {
+  "name": "ADF Chain Testnet",
+  "chainId": 1212,
+  "shortName": "tADF",
+  "networkId": 1212,
+  "nativeCurrency": {
+    "name": "ADDFILL Testnet",
+    "symbol": "tADF",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.adftechnology.com/"],
+  "faucets": [],
+  "infoURL": "https://www.adfstarworld.com/"
+}, {
   "name": "Popcateum Mainnet",
   "chainId": 1213,
   "shortName": "popcat",
@@ -6316,6 +6329,19 @@
   "rpc": ["https://tapi.entercoin.net/"],
   "faucets": [],
   "infoURL": "https://entercoin.net"
+}, {
+  "name": "ADF Chain",
+  "chainId": 1215,
+  "shortName": "ADF",
+  "networkId": 1215,
+  "nativeCurrency": {
+    "name": "ADDFILL",
+    "symbol": "ADF",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.adftechnology.com/"],
+  "faucets": [],
+  "infoURL": "https://www.adfstarworld.com/"
 }, {
   "name": "Cycle Network Testnet",
   "chainId": 1221,
@@ -12648,6 +12674,19 @@
   "faucets": [],
   "infoURL": "https://www.streamux.cloud"
 }, {
+  "name": "Zenchain",
+  "chainId": 8108,
+  "shortName": "zen",
+  "networkId": 8108,
+  "nativeCurrency": {
+    "name": "ZCX",
+    "symbol": "ZCX",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://zenchain.io"
+}, {
   "name": "Qitmeer Network Testnet",
   "chainId": 8131,
   "shortName": "meertest",
@@ -12855,6 +12894,19 @@
   "rpc": ["https://api.dracones.net/"],
   "faucets": [],
   "infoURL": "https://wolfery.com"
+}, {
+  "name": "Zenchain Testnet",
+  "chainId": 8408,
+  "shortName": "zentest",
+  "networkId": 8408,
+  "nativeCurrency": {
+    "name": "ZCX",
+    "symbol": "ZCX",
+    "decimals": 18
+  },
+  "rpc": ["https://zenchain-testnet.api.onfinality.io/public", "wss://zenchain-testnet.api.onfinality.io/public-ws"],
+  "faucets": ["https://facuet.zenchain.io"],
+  "infoURL": "https://zenchain.io"
 }, {
   "name": "THAT Mainnet",
   "chainId": 8428,
@@ -15404,6 +15456,32 @@
   "faucets": [],
   "infoURL": "https://docs.decentraconnect.io"
 }, {
+  "name": "SEC Testnet",
+  "chainId": 19515,
+  "shortName": "SEPt",
+  "networkId": 19515,
+  "nativeCurrency": {
+    "name": "SEP",
+    "symbol": "SEP",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.secexplorer.io"],
+  "faucets": ["https://faucet.secexplorer.io"],
+  "infoURL": "https://smartenergychain.org"
+}, {
+  "name": "SEC Mainnet",
+  "chainId": 19516,
+  "shortName": "SECm",
+  "networkId": 19516,
+  "nativeCurrency": {
+    "name": "SEP",
+    "symbol": "SEP",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.secexplorer.io"],
+  "faucets": [],
+  "infoURL": "https://smartenergychain.org"
+}, {
   "name": "Magnet Network",
   "chainId": 19527,
   "shortName": "mgt",
@@ -16795,6 +16873,19 @@
   "faucets": [],
   "infoURL": "https://goldxchain.io"
 }, {
+  "name": "Asset Chain Mainnet",
+  "chainId": 42420,
+  "shortName": "assetchain",
+  "networkId": 42420,
+  "nativeCurrency": {
+    "name": "Real World Asset",
+    "symbol": "RWA",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.assetchain.org"],
+  "faucets": ["https://faucet.assetchain.org"],
+  "infoURL": "https://docs.assetchain.org"
+}, {
   "name": "Asset Chain Testnet",
   "chainId": 42421,
   "shortName": "rwa",
@@ -18108,6 +18199,19 @@
   "faucets": [],
   "infoURL": "https://guapcoin.org/"
 }, {
+  "name": "Wadzchain Testnet",
+  "chainId": 71117,
+  "shortName": "wadzchain-testnet",
+  "networkId": 71117,
+  "nativeCurrency": {
+    "name": "WadzToken",
+    "symbol": "WTK",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.wadzchain.io"],
+  "faucets": ["https://faucet-testnet.wadzchain.io"],
+  "infoURL": "https://www.wadzchain-network.io"
+}, {
   "name": "Polyjuice Testnet",
   "chainId": 71393,
   "shortName": "ckb",
@@ -18887,6 +18991,19 @@
   "rpc": ["https://testnet-fx-json-web3.functionx.io:8545"],
   "faucets": [],
   "infoURL": "https://functionx.io/"
+}, {
+  "name": "UBIT SMARTCHAIN MAINNET",
+  "chainId": 90002,
+  "shortName": "UBITSCAN",
+  "networkId": 90002,
+  "nativeCurrency": {
+    "name": "USC",
+    "symbol": "USC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.ubitscan.io"],
+  "faucets": [],
+  "infoURL": "https://ubitscan.io"
 }, {
   "name": "Beverly Hills",
   "chainId": 90210,

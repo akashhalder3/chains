@@ -3063,6 +3063,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "addfillmain",
+  "icons": [{
+    "url": "ipfs://QmWoKvjVs92PNzqd6hz7714wHSx3TuWEMBVcdG7ujhW9Qx",
+    "width": 697,
+    "height": 697,
+    "format": "png"
+  }]
+}, {
   "name": "camino",
   "icons": [{
     "url": "ipfs://QmSEoUonisawfCvT3osysuZzbqUEHugtgNraePKWL8PKYa",
@@ -4767,6 +4775,14 @@
     "format": "png"
   }]
 }, {
+  "name": "secIcon",
+  "icons": [{
+    "url": "ipfs://QmWeJdWk2HiZhcCtecHyzxm7DBH5KDH2ERj9ZiqxmxgUto",
+    "width": 1172,
+    "height": 1172,
+    "format": "png"
+  }]
+}, {
   "name": "eon",
   "icons": [{
     "url": "ipfs://QmSFMBk3rMyu45Sy9KQHjgArFj4HdywANNYrSosLMUdcti",
@@ -5391,6 +5407,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "zenchain",
+  "icons": [{
+    "url": "ipfs://QmSnaHBAeCQEaibgsGqU1enFFyWsq5Eh3dDSMBA1Qztj91",
+    "width": 166,
+    "height": 166,
+    "format": "svg"
+  }]
+}, {
   "name": "globelchain",
   "icons": [{
     "url": "ipfs://QmPRHDsVNpRZ72GoQgDbpa3R4wKENmrXCRNuYJkxocFRDb",
@@ -5636,6 +5660,14 @@
     "url": "ipfs://QmafrUmh1FD48WWQwk6pfW1Y7eA9VQTdpeL387Wt2JFrAd",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "wadz",
+  "icons": [{
+    "url": "ipfs://QmRBVFviqdhyarkTAxrnq2r2em6dJXCzpNxZL4yaXPbLou",
+    "width": 218,
+    "height": 218,
     "format": "png"
   }]
 }, {
@@ -6428,6 +6460,14 @@
     "url": "ipfs://QmSLkiAAr6VtJ6jEqEzz3QdZtVEHzR6Az7E4XD8qXwjuio",
     "width": 1000,
     "height": 1000,
+    "format": "png"
+  }]
+}, {
+  "name": "addfilltest",
+  "icons": [{
+    "url": "ipfs://QmWoKvjVs92PNzqd6hz7714wHSx3TuWEMBVcdG7ujhW9Qx",
+    "width": 697,
+    "height": 697,
     "format": "png"
   }]
 }, {
