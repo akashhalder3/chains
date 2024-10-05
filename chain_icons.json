@@ -2593,9 +2593,9 @@
 }, {
   "name": "karak",
   "icons": [{
-    "url": "ipfs://QmRvHRuhfQgDRyGgt6vCoHqjZW2Dir7siowYnBpR5BRSej",
-    "width": 1080,
-    "height": 1080,
+    "url": "ipfs://QmbCwbV2eNWxb8qCop5PzP9PB15YZzcHbj8D7BixLso4xJ",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
@@ -2604,6 +2604,14 @@
     "url": "ipfs://Qmdcs7BTuVPjMxfQjfcWdzVeRiXwhzRtRj637pyGRbT9ff",
     "width": 2400,
     "height": 2400,
+    "format": "png"
+  }]
+}, {
+  "name": "geist",
+  "icons": [{
+    "url": "ipfs://QmNih9epd2WkWTCWD9nwXyUzpaBcPALJH66Fjq1YywpcA8",
+    "width": 1016,
+    "height": 1016,
     "format": "png"
   }]
 }, {
@@ -2653,6 +2661,14 @@
     "width": 1024,
     "height": 1024,
     "format": "jpg"
+  }]
+}, {
+  "name": "glide",
+  "icons": [{
+    "url": "ipfs://bafkreihxec2ckjvyoh5rhk4j2fvyqquiw5mievvs7up7fl2dfef5d767aa",
+    "width": 700,
+    "height": 700,
+    "format": "svg"
   }]
 }, {
   "name": "POOLS",
@@ -3839,6 +3855,14 @@
     "format": "png"
   }]
 }, {
+  "name": "matchain",
+  "icons": [{
+    "url": "ipfs://QmdGWNf6Tmq7Wn4TbJEDBHMZCGfYgsvmmYnFqYdE4CJTRn",
+    "width": 393,
+    "height": 412,
+    "format": "png"
+  }]
+}, {
   "name": "opside-new",
   "icons": [{
     "url": "ipfs://QmZnE2ygPL2ZGuzHGvFCHmrqxwdurrhz3K1yPnwLzKbgay",
@@ -4996,6 +5020,14 @@
     "url": "ipfs://bafybeihbsw3ky7yf6llpww6fabo4dicotcgwjpefscoxrppstjx25dvtea",
     "width": 932,
     "height": 932,
+    "format": "png"
+  }]
+}, {
+  "name": "polterGeist",
+  "icons": [{
+    "url": "ipfs://QmNih9epd2WkWTCWD9nwXyUzpaBcPALJH66Fjq1YywpcA8",
+    "width": 1016,
+    "height": 1016,
     "format": "png"
   }]
 }, {
@@ -6228,6 +6260,14 @@
     "url": "ipfs://QmYwvmJZ1bgTdiZUKXk4SifTpTj286CkZjMCshUyJuBFH1",
     "width": 400,
     "height": 400,
+    "format": "png"
+  }]
+}, {
+  "name": "vexon",
+  "icons": [{
+    "url": "ipfs://QmVCPcYVXB9ZEAN87LV5RrSBqxoD8zwwgVF6dcVetffSv2",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
