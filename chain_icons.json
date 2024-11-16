@@ -5409,7 +5409,7 @@
 }, {
   "name": "karak",
   "icons": [{
-    "url": "ipfs://QmbCwbV2eNWxb8qCop5PzP9PB15YZzcHbj8D7BixLso4xJ",
+    "url": "ipfs://bafybeic3dihuytvtm2hnfo7lvsqf43eqbzobtkxn3o3pxptktifsefy7su",
     "width": 256,
     "height": 256,
     "format": "png"
@@ -7020,6 +7020,14 @@
     "url": "ipfs://QmQBuGUPQ4f7zREjdviV4itwJB6gCbYEMvfaiWqFMweTPm",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "omni",
+  "icons": [{
+    "url": "ipfs://QmdCMVucuZJpMqSn3xSWCU3io5ftRAwtzAqTd8QXLQEaos",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {

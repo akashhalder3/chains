@@ -2127,9 +2127,9 @@
     "symbol": "OMNI",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://mainnet.omni.network", "wss://wss.mainnet.omni.network"],
   "faucets": [],
-  "infoURL": "https://docs.omni.network/"
+  "infoURL": "https://docs.omni.network"
 }, {
   "name": "Atoshi Testnet",
   "chainId": 167,
@@ -7240,6 +7240,19 @@
   "faucets": [],
   "infoURL": "https://zkbase.org/"
 }, {
+  "name": "Islander",
+  "chainId": 1480,
+  "shortName": "isl",
+  "networkId": 1480,
+  "nativeCurrency": {
+    "name": "Islander",
+    "symbol": "ISL",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Vitruveo Mainnet",
   "chainId": 1490,
   "shortName": "vitruveo",
@@ -8289,7 +8302,7 @@
     "symbol": "EDX",
     "decimals": 18
   },
-  "rpc": ["https://testnet.edexa.network/rpc", "https://io-dataseed1.testnet.edexa.io-market.com/rpc"],
+  "rpc": ["https://testnet.edexa.network/rpc", "https://testnet.edexa.com/rpc"],
   "faucets": ["https://faucet.edexa.com/"],
   "infoURL": "https://edexa.network/"
 }, {
@@ -9473,6 +9486,19 @@
     "decimals": 18
   },
   "rpc": ["https://goerli.node1.karak.network"],
+  "faucets": [],
+  "infoURL": "https://karak.network"
+}, {
+  "name": "K2 Testnet",
+  "chainId": 2512,
+  "shortName": "K2-testnet",
+  "networkId": 2512,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://karak.network"
 }, {
@@ -10958,6 +10984,19 @@
   "faucets": ["https://laikachain.dog/faucets"],
   "infoURL": "https://laikachain.dog"
 }, {
+  "name": "Echos Chain",
+  "chainId": 4321,
+  "shortName": "echos",
+  "networkId": 4321,
+  "nativeCurrency": {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.echos.fun/"
+}, {
   "name": "Bobafuji Testnet",
   "chainId": 4328,
   "shortName": "BobaFujiTestnet",
@@ -11630,7 +11669,7 @@
     "symbol": "EDX",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.edexa.network/rpc", "https://mainnet.edexa.com/rpc", "https://io-dataseed1.mainnet.edexa.io-market.com/rpc"],
+  "rpc": ["https://mainnet.edexa.network/rpc", "https://mainnet.edexa.com/rpc"],
   "faucets": [],
   "infoURL": "https://edexa.network/"
 }, {
