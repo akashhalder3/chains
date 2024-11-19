@@ -2287,6 +2287,19 @@
   "faucets": [],
   "infoURL": "https://waterfall.network"
 }, {
+  "name": "IOST Mainnet",
+  "chainId": 182,
+  "shortName": "iost-mainnet",
+  "networkId": 182,
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": ["https://iost-mainnet.alt.technology"],
+  "faucets": [],
+  "infoURL": "https://iost.io"
+}, {
   "name": "Ethernity",
   "chainId": 183,
   "shortName": "ethernity-mainnet",
@@ -3196,6 +3209,19 @@
   "rpc": ["https://rpc.orderly.network", "https://l2-orderly-mainnet-0.t.conduit.xyz"],
   "faucets": [],
   "infoURL": "www.orderly.network"
+}, {
+  "name": "DaVinci",
+  "chainId": 293,
+  "shortName": "davinci",
+  "networkId": 293,
+  "nativeCurrency": {
+    "name": "DaVinci",
+    "symbol": "DCOIN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.davinci.bz"],
+  "faucets": [],
+  "infoURL": "https://davinci.bz"
 }, {
   "name": "Hedera Mainnet",
   "chainId": 295,
@@ -8071,6 +8097,19 @@
   "rpc": ["https://rpc.minato.soneium.org"],
   "faucets": [],
   "infoURL": "https://soneium.org"
+}, {
+  "name": "Bionix Testnet",
+  "chainId": 1949,
+  "shortName": "tbio",
+  "networkId": 1949,
+  "nativeCurrency": {
+    "name": "Bionix",
+    "symbol": "tBIO",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-chain.bionixnetwork.com"],
+  "faucets": [],
+  "infoURL": "https://bionixnetwork.com"
 }, {
   "name": "D-Chain Mainnet",
   "chainId": 1951,
@@ -12973,6 +13012,19 @@
   "faucets": ["https://faucet-athena.ardescan.com/"],
   "infoURL": "https://ardenium.org"
 }, {
+  "name": "arena-z",
+  "chainId": 7897,
+  "shortName": "arena-z",
+  "networkId": 7897,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.arena-z.gg", "wss://ws.arena-z.gg"],
+  "faucets": [],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/arena-z"
+}, {
   "name": "Dot Blox",
   "chainId": 7923,
   "shortName": "DTBX",
@@ -17081,6 +17133,19 @@
   "faucets": [],
   "infoURL": "https://docs.wirexpaychain.com/tech/wirex-pay-chain"
 }, {
+  "name": "Mezo Matsnet Testnet",
+  "chainId": 31611,
+  "shortName": "mezo",
+  "networkId": 31611,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.test.mezo.org"],
+  "faucets": ["https://mezo.org/matsnet"],
+  "infoURL": "https://mezo.org/"
+}, {
   "name": "Xchain Mainnet",
   "chainId": 31753,
   "shortName": "INTD",
@@ -18393,6 +18458,19 @@
   "rpc": ["https://rpc-tanenbaum.rollux.com", "https://rpc.ankr.com/rollux_testnet/${ANKR_API_KEY}", "wss://rpc-tanenbaum.rollux.com/wss", "https://rollux.rpc.tanenbaum.io", "wss://rollux.rpc.tanenbaum.io/wss"],
   "faucets": ["https://rollux.id/faucetapp"],
   "infoURL": "https://rollux.com"
+}, {
+  "name": "Ink",
+  "chainId": 57073,
+  "shortName": "ink",
+  "networkId": 57073,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://inkonchain.com"
 }, {
   "name": "COINSEC Network",
   "chainId": 57451,
@@ -23490,7 +23568,7 @@
   "faucets": [],
   "infoURL": ""
 }, {
-  "name": "Xterio Chain",
+  "name": "Xterio Chain (ETH)",
   "chainId": 2702128,
   "shortName": "xterio",
   "networkId": 2702128,
