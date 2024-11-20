@@ -2235,6 +2235,19 @@
   "faucets": [],
   "infoURL": "https://www.dcnetio.cloud"
 }, {
+  "name": "HashKey Chain",
+  "chainId": 177,
+  "shortName": "HSK",
+  "networkId": 177,
+  "nativeCurrency": {
+    "name": "HashKey EcoPoints",
+    "symbol": "HSK",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://hsk.xyz"
+}, {
   "name": "ABEY Testnet",
   "chainId": 178,
   "shortName": "abeyt",
@@ -2781,6 +2794,19 @@
   "faucets": [],
   "infoURL": "https://lachain.io"
 }, {
+  "name": "Prom",
+  "chainId": 227,
+  "shortName": "PROM",
+  "networkId": 227,
+  "nativeCurrency": {
+    "name": "Prom",
+    "symbol": "PROM",
+    "decimals": 18
+  },
+  "rpc": ["https://prom-rpc.eu-north-2.gateway.fm"],
+  "faucets": [],
+  "infoURL": "https://prom.io"
+}, {
   "name": "Mind Network Mainnet",
   "chainId": 228,
   "shortName": "fhe",
@@ -3027,6 +3053,19 @@
   "rpc": ["https://mainnet.neonlink.io"],
   "faucets": [],
   "infoURL": "https://neonlink.io"
+}, {
+  "name": "Guru Network",
+  "chainId": 260,
+  "shortName": "guru",
+  "networkId": 260,
+  "nativeCurrency": {
+    "name": "Guru",
+    "symbol": "GURU",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.gurunetwork.ai/archive/260"],
+  "faucets": [],
+  "infoURL": "https://gurunetwork.ai"
 }, {
   "name": "Guru Network Testnet",
   "chainId": 261,
@@ -4616,7 +4655,7 @@
 }, {
   "name": "NERO Testnet",
   "chainId": 689,
-  "shortName": "NERO",
+  "shortName": "NEROT",
   "networkId": 689,
   "nativeCurrency": {
     "name": "NERO",
@@ -7591,6 +7630,19 @@
   "faucets": [],
   "infoURL": "https://www.ludan.org/"
 }, {
+  "name": "NERO Mainnet",
+  "chainId": 1689,
+  "shortName": "NERO",
+  "networkId": 1689,
+  "nativeCurrency": {
+    "name": "NERO",
+    "symbol": "NERO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.nerochain.io", "wss://ws.nerochain.io"],
+  "faucets": [],
+  "infoURL": "https://docs.nerochain.io/"
+}, {
   "name": "Anytype EVM Chain",
   "chainId": 1701,
   "shortName": "AnytypeChain",
@@ -10178,6 +10230,19 @@
   "faucets": ["https://faucet.zcore.cash"],
   "infoURL": "https://zcore.cash"
 }, {
+  "name": "EthStorage L2 Mainnet",
+  "chainId": 3332,
+  "shortName": "esl2-m",
+  "networkId": 3332,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["http://mainnet.l2.ethstorage.io:9540"],
+  "faucets": [],
+  "infoURL": "https://ethstorage.io/"
+}, {
   "name": "EthStorage Testnet",
   "chainId": 3333,
   "shortName": "es-t",
@@ -10204,16 +10269,42 @@
   "faucets": [],
   "infoURL": "https://galileo.web3q.io/home.w3q/"
 }, {
-  "name": "EthStorage Mainnet",
+  "name": "EthStorage L2 Devnet",
   "chainId": 3335,
-  "shortName": "es-m",
+  "shortName": "esl2-d",
   "networkId": 3335,
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["http://mainnet.ethstorage.io:9540"],
+  "rpc": ["http://devnet.l2.ethstorage.io:9540"],
+  "faucets": [],
+  "infoURL": "https://ethstorage.io/"
+}, {
+  "name": "EthStorage L2 Testnet",
+  "chainId": 3336,
+  "shortName": "esl2-t",
+  "networkId": 3336,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["http://testnet.l2.ethstorage.io:9540"],
+  "faucets": [],
+  "infoURL": "https://ethstorage.io/"
+}, {
+  "name": "EthStorage Devnet",
+  "chainId": 3337,
+  "shortName": "es-d",
+  "networkId": 3337,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["http://devnet.ethstorage.io:9540"],
   "faucets": [],
   "infoURL": "https://ethstorage.io/"
 }, {
@@ -10229,6 +10320,19 @@
   "rpc": ["https://peaq.api.onfinality.io/public", "https://peaq-rpc.dwellir.com", "https://peaq-rpc.publicnode.com", "https://evm.peaq.network"],
   "faucets": [],
   "infoURL": "https://www.peaq.network"
+}, {
+  "name": "EthStorage Mainnet",
+  "chainId": 3339,
+  "shortName": "es-m",
+  "networkId": 3339,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["http://mainnet.ethstorage.io:9540"],
+  "faucets": [],
+  "infoURL": "https://ethstorage.io/"
 }, {
   "name": "Paribu Net Mainnet",
   "chainId": 3400,
@@ -19849,6 +19953,19 @@
   "rpc": ["https://rpc-stagenet.unit0.dev"],
   "faucets": [],
   "infoURL": "https://units.network"
+}, {
+  "name": "Matr1x Testnet",
+  "chainId": 88866,
+  "shortName": "Matr1x-Testnet",
+  "networkId": 88866,
+  "nativeCurrency": {
+    "name": "MAX",
+    "symbol": "MAX",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.m1chain.io"],
+  "faucets": [],
+  "infoURL": "https://matr1x.io"
 }, {
   "name": "Chiliz Scoville Testnet",
   "chainId": 88880,
