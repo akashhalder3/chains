@@ -2647,9 +2647,9 @@
     "symbol": "BTN",
     "decimals": 18
   },
-  "rpc": ["https://rpc.bitnet.money", "https://rpc.btnscan.com"],
+  "rpc": ["https://rpc.bitnet.money", "https://rpc.btnscan.com", "https://rpc.btn.network", "https://rpc.bitnetmoney.com", "https://rpc.btn-network.org"],
   "faucets": [],
-  "infoURL": "https://bitnet.money"
+  "infoURL": "https://bitnet.technology"
 }, {
   "name": "Freight Trust Network",
   "chainId": 211,
@@ -6057,6 +6057,19 @@
   "faucets": [],
   "infoURL": "https://www.topnetwork.org/"
 }, {
+  "name": "IOPN Testnet",
+  "chainId": 984,
+  "shortName": "iopn-Test-Chain",
+  "networkId": 984,
+  "nativeCurrency": {
+    "name": "OPN",
+    "symbol": "OPN",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.iopn.tech"],
+  "faucets": ["https://faucet.iopn.tech"],
+  "infoURL": "https://iopn.tech"
+}, {
   "name": "Memo Smart Chain Mainnet",
   "chainId": 985,
   "shortName": "memochain",
@@ -6069,6 +6082,19 @@
   "rpc": ["https://chain.metamemo.one:8501", "wss://chain.metamemo.one:16801"],
   "faucets": ["https://faucet.metamemo.one/"],
   "infoURL": "www.memolabs.org"
+}, {
+  "name": "LAGOM Mainnet",
+  "chainId": 986,
+  "shortName": "Lagom-Chain",
+  "networkId": 986,
+  "nativeCurrency": {
+    "name": "LAGO",
+    "symbol": "LAGO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1.lagom.mainnet.zeeve.net"],
+  "faucets": [],
+  "infoURL": "https://lagomchain.com"
 }, {
   "name": "BinaryChain Mainnet",
   "chainId": 987,
@@ -10555,6 +10581,19 @@
   "faucets": [],
   "infoURL": "https://gmnetwork.ai"
 }, {
+  "name": "Apertum",
+  "chainId": 2786,
+  "shortName": "aptm",
+  "networkId": 2786,
+  "nativeCurrency": {
+    "name": "Apertum",
+    "symbol": "APTM",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.apertum.io/ext/bc/YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn/rpc"],
+  "faucets": [],
+  "infoURL": "https://apertum.io"
+}, {
   "name": "Morph Holesky",
   "chainId": 2810,
   "shortName": "hmorph",
@@ -13844,6 +13883,19 @@
   "faucets": [],
   "infoURL": "https://shyft.network"
 }, {
+  "name": "Rarimo",
+  "chainId": 7368,
+  "shortName": "rarimo",
+  "networkId": 7368,
+  "nativeCurrency": {
+    "name": "Rarimo Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://rarimo.com"
+}, {
   "name": "Raba Network Mainnet",
   "chainId": 7484,
   "shortName": "raba",
@@ -14857,6 +14909,19 @@
   "rpc": ["https://node1.tmyblockchain.org/rpc"],
   "faucets": ["https://faucet.tmychain.org/"],
   "infoURL": "https://tmychain.org/"
+}, {
+  "name": "Okto Testnet",
+  "chainId": 8801,
+  "shortName": "okto-testnet",
+  "networkId": 8801,
+  "nativeCurrency": {
+    "name": "Okto",
+    "symbol": "OKTO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.okto-testnet.zeeve.online"],
+  "faucets": ["https://faucet.okto-testnet.zeeve.online"],
+  "infoURL": ""
 }, {
   "name": "Haven1",
   "chainId": 8811,
