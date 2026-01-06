@@ -18610,7 +18610,7 @@
 }, {
   "name": "BC Hyper Chain Mainnet",
   "chain": "BC Hyper Chain",
-  "rpc": ["https://mainapi.bchscan.io"],
+  "rpc": ["https://mainapi.bchscan.io", "https://datahub-asia02.bchscan.io"],
   "features": [{
     "name": "EIP155"
   }, {
@@ -33726,6 +33726,26 @@
     "standard": "EIP3091"
   }],
   "status": "active"
+}, {
+  "name": "ADI Chain",
+  "chain": "ADI",
+  "icon": "adi",
+  "rpc": ["https://rpc.adifoundation.ai"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ADI",
+    "symbol": "ADI",
+    "decimals": 18
+  },
+  "infoURL": "https://adifoundation.ai",
+  "shortName": "adi",
+  "chainId": 36900,
+  "networkId": 36900,
+  "explorers": [{
+    "name": "ADI Explorer",
+    "url": "https://explorer.adifoundation.ai",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Lens Testnet",
   "title": "Lens Network Sepolia Testnet",
